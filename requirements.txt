@@ -13,7 +13,7 @@ Flask-Migrate==2.5.3
 Flask-SQLAlchemy==2.4.4
 Flask-WTF==0.14.3
 gevent==20.9.0
-greenlet==0.4.17
+greenlet==1.1.0
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.3
